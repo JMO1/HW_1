@@ -1,1 +1,2 @@
 # HW_1
+The first thing I did was get rid of <div class="header"> under the body tag and repladed it with header along side its ending header tag. The dots on the CSS file was removed. Header div, header div u, and header div ul il was replaced with Header nav, header nav u, and header nav ul il was replaced. I then replaced the first <div> tags with <nav> tags. <div> tags on line 51 and 73 to aside. <div class="footer"> was changed to <footer> on HTML tab and then the dot was removed from in front of the footer on the CSS tab. Added a description to each image.
